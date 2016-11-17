@@ -1,0 +1,9 @@
+{
+    "path" : "~/Dropbox/projects/tweetdat",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

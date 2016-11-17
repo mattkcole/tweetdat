@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: tweetdat\nType: Package\nTitle: Additional functions for the twitteR package (Twitter API wrapper)\nVersion: 0.0.1\nAuthors@R: person(\"Matt\", \"Cole\", email = \"mattcole1093@gmail.com\",\n  role = c(\"aut\", \"cre\"))\nDescription: More about what it does (maybe more than one line)\nLicense: MIT\nURL: http://yihui.name/knitr/\nBugReports: https://github.com/yihui/knitr/issues\nLazyData: TRUE\nImports:\n    dplyr,\n    twitteR\nRoxygenNote: 5.0.1\n",
+    "created" : 1479352672700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2550064216",
+    "id" : "D81CDCF7",
+    "lastKnownWriteTime" : 1479354449,
+    "last_content_update" : 1479354449,
+    "path" : "~/Dropbox/projects/tweetdat/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

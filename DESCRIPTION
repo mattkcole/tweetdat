@@ -1,0 +1,15 @@
+Package: tweetdat
+Type: Package
+Title: Additional functions for the twitteR package (Twitter API wrapper)
+Version: 0.0.1
+Authors@R: person("Matt", "Cole", email = "mattcole1093@gmail.com",
+  role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: MIT
+URL: http://yihui.name/knitr/
+BugReports: https://github.com/yihui/knitr/issues
+LazyData: TRUE
+Imports:
+    dplyr,
+    twitteR
+RoxygenNote: 5.0.1
